@@ -7,12 +7,21 @@
 
 
 ### How to get the website to run:
-->start the backend
-->start the frontend
+1) change your directory in the terminal to C:\ ... \RestaurantRecommendation\Project 0\backend
+
+2) start the backend by typing "nodemon server" into the terminal
+
+3) you can type "localhost:5000/api/v1/restaurants" into your browser to see the data in our database
+
+If it looks like a giant paragraph that makes no sense, then you might need to download a json viewer extension for whatever browser you are using. I use google chrome and I had to downlaod JSONVue
+
+4) change your directory in the terminal to C:\ ... \RestaurantRecommendation\Project 0\frontend
+
+5) type "npm start" into the terminal, The react app will pop up a tab for you in the browser that is our website
 
 
 ### Before you start working on your task:
-1)type "git branch task01" into terminal, to create a branch called task01, that is the exact copy of the master branch
+1)type "git branch task01" into terminal, to create a branch called task01 (or call it whatever you want), that is the exact copy of the master branch
 
 2)type "git checkout task01" into terminal, this switch you to the task01 branch
 
