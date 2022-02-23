@@ -7,17 +7,18 @@
 
 
 ### How to get the website to run:
-1) change your directory in the terminal to C:\ ... \RestaurantRecommendation\Project 0\backend
+1)change your directory in the terminal to C:\ ... \RestaurantRecommendation\Project 0\backend
 
-2) start the backend by typing "nodemon server" into the terminal
+2)start the backend by typing "nodemon server" into the terminal
 
-3) you can type "localhost:5000/api/v1/restaurants" into your browser to see the data in our database
+3)you can type "localhost:5000/api/v1/restaurants" into your browser to see the data in our database, or login to our MongoDB page to look at it (username:cesarg7@csu.fullerton.edu password:Zammy7230!)
 
-If it looks like a giant paragraph that makes no sense, then you might need to download a json viewer extension for whatever browser you are using. I use google chrome and I had to downlaod JSONVue
 
-4) change your directory in the terminal to C:\ ... \RestaurantRecommendation\Project 0\frontend
+If it looks like a giant paragraph that makes no sense, then you might need to download a json viewer extension for whatever browser you are using. I use google chrome and I had to downlaod JSONVue extension
 
-5) type "npm start" into the terminal, The react app will pop up a tab for you in the browser that is our website
+4)change your directory in the terminal to C:\ ... \RestaurantRecommendation\Project 0\frontend
+
+5)type "npm start" into the terminal, The react app will pop up a tab for you in the browser that is our website
 
 
 ### Before you start working on your task:
